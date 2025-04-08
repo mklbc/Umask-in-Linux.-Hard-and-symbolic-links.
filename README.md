@@ -1,0 +1,1 @@
+# Umask-in-Linux.-Hard-and-symbolic-links.
